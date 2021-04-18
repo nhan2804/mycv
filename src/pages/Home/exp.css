@@ -1,0 +1,11 @@
+.category_name {
+  color: darkorange;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  font-weight: 700;
+  border-bottom: 2px solid darkorange;
+  width: 200px;
+}
+.link_a a {
+  color: blue;
+}
